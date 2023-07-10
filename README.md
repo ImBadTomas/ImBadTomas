@@ -13,9 +13,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImBadTomas&theme=tokyonight" alt="mystreak"/>
 ![Moje topovky](https://github-readme-stats.vercel.app/api/top-langs/?username=ImBadTomas&theme=tokyonight&layout=compact)
 
-🌱 Python(discord.py) dev
-🌱 HTML/CSS "developer" :joy: :joy:
-🌱 Java, JavaScript ne-developer
+🌱 Python(discord.py) dev <br/>
+🌱 HTML/CSS "developer" :joy: :joy:<br/>
+🌱 Java, JavaScript ne-developer<br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
